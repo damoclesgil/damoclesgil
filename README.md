@@ -1,15 +1,12 @@
 ### Hey, I'm Dâmocles Gil! 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Folha Web](http://folhaweb.online/home.html).
 
 #### Find me elsewhere 🌎
 
 🚀 [Site](https://damoclesgil.netlify.com)
-
 🐦 [Twitter](https://twitter.com/damoclesgil)
-
 📸 [Instagram](https://www.instagram.com/damoclesgil/)
-
 💼 [LinkedIn](https://www.linkedin.com/in/damoclesgil/)
 <!--
 **damoclesgil/damoclesgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
