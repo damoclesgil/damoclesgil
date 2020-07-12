@@ -4,10 +4,10 @@
 
 #### Find me elsewhere 🌎
 
-🚀 [Site](https://damoclesgil.netlify.com)
-🐦 [Twitter](https://twitter.com/damoclesgil)
-📸 [Instagram](https://www.instagram.com/damoclesgil/)
-💼 [LinkedIn](https://www.linkedin.com/in/damoclesgil/)
+🚀 [Site](https://damoclesgil.netlify.com)<br>
+🐦 [Twitter](https://twitter.com/damoclesgil)<br>
+📸 [Instagram](https://www.instagram.com/damoclesgil/)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/damoclesgil/)<br>
 <!--
 **damoclesgil/damoclesgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
