@@ -1,6 +1,6 @@
 ### Hey, I'm Dâmocles Gil! 👋
 
-- 🔭 I’m currently working on [Folha Web](http://folhaweb.online/home.html).
+- 🔭 I’m currently working at [Folha Web](http://folhaweb.online/home.html).
 
 #### Find me elsewhere 🌎
 
