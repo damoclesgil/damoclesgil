@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **NextJS and STRAPI**
 
-- 💻 Tech Lead Front-end at [calculato](https://github.com/calculatosistemas)
+- 💻 Senior Front-end Engineer at [calculato](https://github.com/calculatosistemas)
 
-- 💬 Ask me about **Vue.js and React, Typescript, Node**
+- 💬 Ask me about **Vue.js and React, Typescript**
 
 ### Languages and Tools:
 
