@@ -24,7 +24,7 @@
 #### Backend and Scripting
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/></code>
-<code><img src="https://avatars.githubusercontent.com/u/19872173?s=48&v=4" alt="strapi" width="40" height="40"/></code>
+<a href="https://strapi.io/" target="_blank"><code><img src="https://avatars.githubusercontent.com/u/19872173?s=48&v=4" alt="strapi" width="40" height="40"/></code></a>
 
 #### Databases
 
@@ -48,7 +48,7 @@
   <a href="https://instagram.com/damoclesgil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/damoclesgil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/damoclesgil" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://damoclesgil.netlify.com" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a> 
+  <a href="https://damoclesgil.com.br" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/damoclesgil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@damocles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
