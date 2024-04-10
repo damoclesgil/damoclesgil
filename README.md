@@ -24,6 +24,7 @@
 #### Backend and Scripting
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/></code>
+<code><img src="https://avatars.githubusercontent.com/u/19872173?s=48&v=4" alt="strapi" width="40" height="40"/></code>
 
 #### Databases
 
