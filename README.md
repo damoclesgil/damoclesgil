@@ -14,11 +14,13 @@
 
 #### Web
 
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></code>
+
+[<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"/></code>](https://vuejs.org/)
+[<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></code>](https://nextjs.org/)
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest"/></code>
+<a href="https://graphql.org" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="strapi" width="40" height="40"/></code></a>
 <!--   <img align="center" alt="damocles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
 <!--   <img align="center" alt="damocles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
 #### Backend and Scripting
