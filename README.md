@@ -8,7 +8,7 @@
 
 - 💻 Senior Front-end Engineer at [calculato](https://github.com/calculatosistemas)
 
-- 💬 Ask me about **Vue.js and Next.js, Typescript**
+- 💬 Ask me about **Vue.js and Next.js**
 
 ### Languages and Tools:
 
