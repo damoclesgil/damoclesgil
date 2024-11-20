@@ -4,8 +4,6 @@
 
 - 🔭 I’m a graduate in **T.I Management** at **SENAC Goiás**
 
-- 🌱 I’m currently learning **GO**
-
 - 💻 Senior Front-end Engineer at [calculato](https://github.com/calculatosistemas)
 
 - 💬 Ask me about **Vue.js and Next.js**
