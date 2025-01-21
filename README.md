@@ -1,4 +1,6 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Dâmocles Gil!
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=01D57F&width=435&lines=D%C3%A2mocles+Gil" alt="Typing SVG" />
+</p>
 
 #### A Brazilian Front-end Engineer with passion for games 🎮, music 🎶 and learning 📚
 
