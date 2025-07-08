@@ -41,9 +41,10 @@
 #### Tools
 
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="xd" width="40" height="40"/></code>
-<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/></code>
+<code> <img src="./assets/ps.svg" alt="photoshop" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/></code>
+<code><img src="./assets/chatgpt-dark.svg" alt="Chat GPT" width="40" height="40"/></code>
 
  <br>
 <div> 
